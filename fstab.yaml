@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/siemenverlinden/airtable-accs-fronr/
+    type: markup
+
+folders:
+  /products/: /products/default
